@@ -13,7 +13,8 @@
     },
     "contact": {
         "title": "Contact Me",
-        "description": "For inquiries or commissions, please feel free to reach out."
+        "description": "For inquiries or commissions, please feel free to reach out.",
+        "messageSent": "Your message has been sent successfully!"
     },
     "gallery": {
         "title": "Gallery",

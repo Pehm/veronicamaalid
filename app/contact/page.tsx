@@ -14,7 +14,7 @@ export default function ContactPage() {
         <main>
             <h1>{translations.contact.title}</h1>
             <p>{translations.contact.description}</p>
-            <ContactForm translations={translations} />
+            <ContactForm />
         </main>
     );
 }

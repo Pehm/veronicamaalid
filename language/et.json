@@ -13,7 +13,8 @@
     },
     "contact": {
         "title": "Võta ühendust",
-        "description": "Küsimuste või eritellimuste korral võtke minuga ühendust."
+        "description": "Küsimuste või eritellimuste korral võtke minuga ühendust.",
+        "messageSent": "Sinu sõnum on edukalt saadetud!"
     },
     "gallery": {
         "title": "Galerii",

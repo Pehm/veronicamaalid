@@ -222,7 +222,7 @@ footer {
   box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.16);
 }
 
-.contact-form button[type="submit"] {
+.contact-form button {
   justify-self: start;
   border: none;
   border-radius: 10px;
@@ -235,11 +235,11 @@ footer {
   transition: background-color 0.15s ease, transform 0.05s ease;
 }
 
-.contact-form button[type="submit"]:hover {
+.contact-form button:hover {
   background: #1f2937;
 }
 
-.contact-form button[type="submit"]:active {
+.contact-form button:active {
   transform: translateY(1px);
 }
 
