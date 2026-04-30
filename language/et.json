@@ -1,0 +1,52 @@
+{
+    "lang": "et",
+    "name": "Veronica Buschman ",
+    "nav": {
+        "home": "Avaleht",
+        "gallery": "Galerii",
+        "about": "Minust",
+        "contact": "Kontakt"
+    },
+    "about": {
+        "title": "Minust",
+        "description": "Mina olen Veronica, Eestis töötav naiskunstnik, kes loob peamiselt ülirealistlikke õlimaale loodusest ja traditsioonilisi natüürmorte. Olen ka Haapsalu Kunstnike Liidu ja Rahvusvahelise Kunstnike Liidu Eesti osakonna liige, ning minu maale saab peale siin lehel kuulutatud näituste leida ja osta Haapsalus Maie galeriis ja Tallinnas Mustakivi keskuse galeriis.\nSündisin Tallinnas 1957 aastal. 1976. aastal lõpetasin Tallinna 46. keskkooli kunstiklassi. Minu edasised kunstiõpingud on olnud kaootilised: 80ndate alguses valisin aastase kaugõppe Tartu Kunstikoolis, seejärel jätkasin õpinguid Moskvas ühes kunstiakadeemias kaks aastat kaugõppes. Abielluminne ja laste sünd langes kokku NSVL lagunemis segaste aegadega ja õpingud jäid kahjuks pooleli. Pere ja laste kõrvalt tegin vaid 2-3 maali aastas, mõnele sugulasele või tuttavale kingituseks. 1999 aastal tulime perega Tallinnast Läänemaale elama. Tänaseks on lapsed suureks kasvanud ja elavad oma elu, kes kodumaal, kes välismaal. Äkki tabasin, et mul on kohutavalt palju vaba aega! Nii otsustasingi oma vanad oskused üles soojendad ja alates 2017. aastas olen väga aktiivselt maalimisega tegelenud.\nLoomulikult on mul veel palju õppida, tehnikat ja silma lihvida. Mulle endale meeldib impressionism ja naivism, kuid minu töid võiks liigitada realismi. Eks aeg näitab, millisesse “-ismi” ma ajaga liigun. Püüan tabada ja jäädvustada Ilu ja kui see mul õnnestub vaatajateni üle kanda, olen õnnelik!\nVärvilist vaheldust teie ellu soovides!\n Veronica"
+    },
+    "contact": {
+        "title": "Võta ühendust",
+        "description": "Küsimuste või eritellimuste korral võtke minuga ühendust."
+    },
+    "gallery": {
+        "title": "Galerii",
+        "sortBy": "Sorteeri",
+        "sortOptions": {
+            "year": "Aasta",
+            "price": "Hind",
+            "size": "Suurus"
+        },
+        "categories": ["Meri", "Mets", "Maastik", "Natüürmort", "Loodus", "Lilled", "Talv", "Jõgi/Järv"]
+    },
+    "tags": {
+        "sold": "Müüdud",
+        "new": "Uus",
+        "featured": "Esile tõstetud",
+        "available": "Saadaval",
+        "unavailable": "Pole saadaval",
+        "title": "Pealkiri",
+        "description": "Kirjeldus",
+        "price": "Hind",
+        "size": "Suurus",
+        "category": "Kategooria",
+        "status": "Staatus",
+        "private": "Erakogus"
+    },
+    "footer": {
+        "text": "Veronica Buschman. Kõik õigused kaitstud."
+    },
+    "contact form": {
+        "name": "Nimi",
+        "email": "E-post",
+        "message": "Sõnum",
+        "submit": "Saada"
+    }
+
+}

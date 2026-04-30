@@ -1,0 +1,52 @@
+{
+    "lang": "en",
+    "name": "Veronica Buschman ",
+    "nav": {
+        "home": "Home",
+        "gallery": "Gallery",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "about": {
+        "title": "About Me",
+        "description": "My name is Veronica, and I am a female artist working in Estonia. I primarily create hyper-realistic oil paintings of nature, as well as traditional still lifes. I am a member of the Haapsalu Artists’ Association and the Estonian branch of the International Artists’ Association. In addition to the exhibitions announced on this page, my paintings can also be viewed and purchased at Maie Gallery in Haapsalu and at the Mustakivi Centre Gallery in Tallinn.\nI was born in Tallinn in 1957. In 1976, I graduated from the art class of Tallinn Secondary School No. 46. My further artistic education has been somewhat irregular: in the early 1980s, I completed a one-year distance learning course at the Tartu Art School, after which I continued my studies for two years via distance learning at an art academy in Moscow. Unfortunately, my studies were interrupted during the turbulent period surrounding the collapse of the Soviet Union, as this coincided with my marriage and the birth of my children.\nFor many years, while raising a family, I painted only two or three works a year, usually as gifts for relatives or friends. In 1999, our family moved from Tallinn to Läänemaa. Today, my children are grown and living their own lives, both in Estonia and abroad. At one point, I suddenly realized that I had a great deal of free time - and decided to revive my artistic skills. Since 2017, I have been actively engaged in painting once again.\nOf course, I still have much to learn and continue refining both my technique and artistic eye. Personally, I am drawn to impressionism and naïve art, although my own work can be classified as realism. Time will show which direction I will evolve toward.\nMy aim is to capture and preserve beauty - and if I succeed in conveying it to the viewer, I am truly happy.\nWishing color and inspiration in your life,\nVeronica"
+    },
+    "contact": {
+        "title": "Contact Me",
+        "description": "For inquiries or commissions, please feel free to reach out."
+    },
+    "gallery": {
+        "title": "Gallery",
+        "sortBy": "Sort By",
+        "sortOptions": {
+            "year": "Year",
+            "price": "Price",
+            "size": "Size"
+        },
+        "categories": ["Sea", "Forest", "Landscape", "Still Life", "Nature", "Flowers", "Winter", "River/Lake"]
+    },
+    "tags": {
+        "sold": "Sold",
+        "new": "New",
+        "featured": "Featured",
+        "available": "Available",
+        "unavailable": "Unavailable",
+        "title": "Title",
+        "description": "Description",
+        "price": "Price",
+        "size": "Size",
+        "category": "Category",
+        "status": "Status",
+        "private": "Private Collection"
+    },
+    "footer": {
+        "text": "Veronica Buschman. All rights reserved."
+    },
+    "contact form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "submit": "Submit"
+    }
+
+}

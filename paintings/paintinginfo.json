@@ -1,0 +1,788 @@
+[
+    {
+        "title": {
+            "et": "Kivirand",
+            "en": "Stone Shore",
+            "ru": "Каменный берег"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2025,
+        "price": 1500,
+        "size": "60x80 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/kivirand.jpg",
+        "category": {
+            "et": ["meri", "loodus"],
+            "en": ["seascape", "nature"],
+            "ru": ["морской пейзаж", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Meri",
+            "en": "Sea",
+            "ru": "Море"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2024,
+        "price": 1200,
+        "size": "50x70 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/meri.jpg",
+        "category": {
+            "et": ["meri", "loodus"],
+            "en": ["seascape", "nature"],
+            "ru": ["морской пейзаж", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Talv",
+            "en": "Winter",
+            "ru": "Зима"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2020,
+        "price": 1300,
+        "size": "50x70 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/talv.jpg",
+        "category": {
+            "et": ["maastik", "talv"],
+            "en": ["landscape", "winter"],
+            "ru": ["пейзаж", "зима"]
+        }
+    },
+    {
+        "title": {
+            "et": "Päikeseloojang peale vihma",
+            "en": "Sunset after Rain",
+            "ru": "Закат после дождя"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2025,
+        "price": 1600,
+        "size": "60x90 cm",
+        "sold": false,
+        "featured": true,
+        "available": true,
+        "image": "/paintings/paikeseloojang.jpg",
+        "category": {
+            "et": ["mets", "päikeseloojang", "loodus"],
+            "en": ["forest", "sunset", "nature"],
+            "ru": ["лес", "закат", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Suur perekond",
+            "en": "Large Family",
+            "ru": "Большая семья"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2025,
+        "price": 1250,
+        "size": "60x80 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/suurperekond.jpg",
+        "category": {
+            "et": ["loodus", "mets"],
+            "en": ["nature", "forest"],
+            "ru": ["природа", "лес"]
+        }
+    },
+    {
+        "title": {
+            "et": "Kasesalu",
+            "en": "Birch Grove",
+            "ru": "Березовая роща"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2025,
+        "price": 1400,
+        "size": "50x70 cm",
+        "sold": false,
+        "featured": false,
+        "available": true,
+        "image": "/paintings/kasesalu.jpg",
+        "category": {
+            "et": ["mets", "loodus"],
+            "en": ["forest", "nature"],
+            "ru": ["лес", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Hõbepaju varjus",
+            "en": "In the Shade of the Silver Willow",
+            "ru": "В тени серебристой ивы"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2025,
+        "price": 1100,
+        "size": "50x75 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/hobepaju_varjus.jpg",
+        "category": {
+            "et": ["päikeseloojang", "loodus"],
+            "en": ["sunset", "nature"],
+            "ru": ["закат", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Järve ääres",
+            "en": "By the Lake",
+            "ru": "У озера"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2025,
+        "price": 1500,
+        "size": "50x60 cm",
+        "sold": false,
+        "featured": true,
+        "image": "/paintings/jarve_aares.jpg",
+        "category": {
+            "et": ["järv", "loodus"],
+            "en": ["lake", "nature"],
+            "ru": ["озеро", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Ääremaa",
+            "en": "Outskirts",
+            "ru": "Окраина"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2024,
+        "price": 1600,
+        "size": "100x70 cm",
+        "sold": false,
+        "featured": true,
+        "image": "/paintings/aaremaa.jpg",
+        "category": {
+            "et": ["päikeseloojang", "loodus"],
+            "en": ["sunset", "nature"],
+            "ru": ["закат", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Suveõhtu mere ääres",
+            "en": "Summer Evening by the Sea",
+            "ru": "Летний вечер у моря"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2024,
+        "price": 1500,
+        "size": "42x55 cm",
+        "sold": false,
+        "featured": true,
+        "image": "/paintings/suveohtu_mere_aares.jpg",
+        "category": {
+            "et": ["päikeseloojang", "loodus"],
+            "en": ["sunset", "nature"],
+            "ru": ["закат", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Laineharjad",
+            "en": "Wave Crests",
+            "ru": "Волновые гребни"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2024,
+        "price": 1400,
+        "size": "50x60 cm",
+        "sold": true,
+        "featured": true,
+        "image": "/paintings/laineharjad.jpg",
+        "category": {
+            "et": ["päikeseloojang", "loodus"],
+            "en": ["sunset", "nature"],
+            "ru": ["закат", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Natüürmort valge klaariga",
+            "en": "Still Life with White Glaze",
+            "ru": "Натюрморт с белой глазурью"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2023,
+        "price": 1300,
+        "size": "42x50 cm",
+        "sold": false,
+        "featured": true,
+        "image": "/paintings/natuurmort_valge_klaariga.jpg",
+        "category": {
+            "et": ["natüürmort"],
+            "en": ["still life"],
+            "ru": ["натюрморт"]
+        }
+    },
+    {
+        "title": {
+            "et": "Natüürmort Hiina vaasiga",
+            "en": "Still Life with Chinese Vase",
+            "ru": "Натюрморт с китайской вазой"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2023,
+        "price": 1500,
+        "size": "40x60 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/natuurmort_hiina_vaasiga.jpg",
+        "category": {
+            "et": ["natüürmort"],
+            "en": ["still life"],
+            "ru": ["натюрморт"]
+        }
+    },
+    {
+        "title": {
+            "et": "Natüürmort sinihallitusjuustuga",
+            "en": "Still Life with Blue Cheese",
+            "ru": "Натюрморт с голубым сыром"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2023,
+        "price": 1500,
+        "size": "30x45 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/natuurmort_sinihallitusjuustuga.jpg",
+        "category": {
+            "et": ["natüürmort"],
+            "en": ["still life"],
+            "ru": ["натюрморт"]
+        }
+    },
+    {
+        "title": {
+            "et": "Oja metsas",
+            "en": "Stream in the Forest",
+            "ru": "Ручей в лесу"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2023,
+        "price": 1500,
+        "size": "60x80 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/oja_metsas.jpg",
+        "category": {
+            "et": ["mets", "loodus"],
+            "en": ["forest", "nature"],
+            "ru": ["лес", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Heinaaeg",
+            "en": "Haytime",
+            "ru": "Сено"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2022,
+        "price": 1500,
+        "size": "50x70 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/heinaaeg.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Peipsi rand",
+            "en": "Peipsi Shore",
+            "ru": "Берег Чудского озера"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2022,
+        "price": 1500,
+        "size": "50x60 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/peipsi_rand.jpg",
+        "category": {
+            "et": ["rannik", "loodus"],
+            "en": ["seascape", "nature"],
+            "ru": ["морской пейзаж", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Enne äikest",
+            "en": "Before the Storm",
+            "ru": "Перед грозой"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2022,
+        "price": 1500,
+        "size": "50x70 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/enne_aikest.jpg",
+        "category": {
+            "et": ["rannik", "loodus"],
+            "en": ["seascape", "nature"],
+            "ru": ["морской пейзаж", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Varahommik",
+            "en": "Early Morning",
+            "ru": "Раннее утро"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2022,
+        "price": 1500,
+        "size": "50x70 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/varahommik.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Sirel minu akna taga",
+            "en": "Lilac Behind My Window",
+            "ru": "Сирень за моим окном"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2022,
+        "price": 1500,
+        "size": "40x55 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/sirel_minu_akna_taga.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Roosiaias",
+            "en": "In the Rose Garden",
+            "ru": "Розовый сад"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2022,
+        "price": 1500,
+        "size": "50x60 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/roosiaias.jpg",
+        "category": {
+            "et": ["aias", "loodus"],
+            "en": ["garden", "nature"],
+            "ru": ["сад", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Sügisõhtu kodus",
+            "en": "Autumn Evening at Home",
+            "ru": "Осенний вечер дома"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2022,
+        "price": 1500,
+        "size": "50x70 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/sugisohtu_kodus.jpg",
+        "category": {
+            "et": ["natüürmort", "loodus"],
+            "en": ["still life", "nature"],
+            "ru": ["натюрморт", "природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Juunikuu hommik",
+            "en": "June Morning",
+            "ru": "Июньское утро"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2021,
+        "price": 1500,
+        "size": "120x80 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/juunikuu_hommik.jpg",
+        "category": { 
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Pärast vihma",
+            "en": "After the Rain",
+            "ru": "После дождя"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2020,
+        "price": 1500,
+        "size": "70x90 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/parast_vihma.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Talvel",
+            "en": "In Winter",
+            "ru": "Зимой"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2019,
+        "price": 1500,
+        "size": "50x60 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/talvel.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Enne vihma",
+            "en": "Before the Rain",
+            "ru": "Перед дождем"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2019,
+        "price": 1500,
+        "size": "50x70 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/enne_vihma.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Augusti hommik",
+            "en": "August Morning",
+            "ru": "Августовское утро"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2019,
+        "price": 1500,
+        "size": "60x90 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/augusti_hommik.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Jõe ääres",
+            "en": "By the River",
+            "ru": "У реки"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2019,
+        "price": 1500,
+        "size": "40x60 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/joe_aares.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Hobud",
+            "en": "Horses",
+            "ru": "Лошади"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2019,
+        "price": 1500,
+        "size": "40x60 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/hobud.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Varahommik jõel",
+            "en": "Early Morning by the River",
+            "ru": "Раннее утро у реки"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2019,
+        "price": 1500,
+        "size": "60x90 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/varahommik_joel.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Vahune kallas",
+            "en": "Foamy Shore",
+            "ru": "Пенистый берег"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2019,
+        "price": 1500,
+        "size": "50x70 cm",
+        "sold": false,
+        "featured": false,
+        "image": "/paintings/vahune_kallas.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+    },
+    {
+        "title": {
+            "et": "Talvehommik",
+            "en": "Winter Morning",
+            "ru": "Зимнее утро"
+        },
+        "description": {
+            "et": "Õli lõuendil.",
+            "en": "Oil on canvas.",
+            "ru": "Масло на холсте."
+        },
+        "year": 2017,
+        "price": 1500,
+        "size": "50x50 cm",
+        "sold": true,
+        "featured": false,
+        "image": "/paintings/talvehommik.jpg",
+        "category": {
+            "et": ["loodus"],
+            "en": ["nature"],
+            "ru": ["природа"]
+        }
+     },
+        {
+            "title": {
+                "et": "Talvine tee",
+                "en": "Winter Road",
+                "ru": "Зимняя дорога"
+            },
+            "description": {
+                "et": "Õli lõuendil.",
+                "en": "Oil on canvas.",
+                "ru": "Масло на холсте."
+            },
+            "year": 2017,
+            "price": 1500,
+            "size": "50x70 cm",
+            "sold": true,
+            "featured": false,
+            "image": "/paintings/talvine_tee.jpg",
+            "category": {
+                "et": ["loodus"],
+                "en": ["nature"],
+                "ru": ["природа"]
+            }
+        },
+        {
+            "title": {
+                "et": "Varasuvi",
+                "en": "Early Summer",
+                "ru": "Раннее лето"
+            },
+            "description": {
+                "et": "Õli lõuendil.",
+                "en": "Oil on canvas.",
+                "ru": "Масло на холсте."
+            },
+            "year": 2025,
+            "price": 1500,
+            "size": "50x70 cm",
+            "sold": false,
+            "featured": false,
+            "image": "/paintings/varasuvi.jpg",
+            "category": {
+                "et": ["loodus"],
+                "en": ["nature"],
+                "ru": ["природа"]
+            }
+        }
+
+
+]
