@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
-import en from "@/language/en.json";
+import { Analytics } from "@vercel/analytics/next";
 import "../style/style.css";
 import LanguageProvider from "@/contexts/LanguageProvider";
 
@@ -16,13 +16,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="et">
       <body>
         <LanguageProvider>
           <Header />
           {children}
           <Footer />
         </LanguageProvider>
+        <Analytics />
       </body>
     </html>
   );
