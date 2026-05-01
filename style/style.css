@@ -60,6 +60,48 @@ footer {
   align-items: start;
 }
 
+/* Gallery Toolbar */
+.gallery-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.gallery-toolbar h1 {
+  margin-bottom: 0;
+}
+
+.gallery-filter {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.45rem 0.75rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 999px;
+  background: #fff;
+  color: #111827;
+  font-size: 0.92rem;
+  font-weight: 500;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  user-select: none;
+}
+
+.gallery-filter:hover {
+  border-color: #d1d5db;
+  background: #f9fafb;
+}
+
+.gallery-filter input[type="checkbox"] {
+  width: 1rem;
+  height: 1rem;
+  accent-color: #111827;
+  cursor: pointer;
+}
+
 /* Painting Box Component */
 .painting-box {
   border: 1px solid #e5e5e5;
@@ -531,16 +573,72 @@ main {
   width: 100%;
   height: auto;
   border-radius: 12px;
-  animation: slideInFromRight 0.6s ease-out;
 }
 
-@keyframes slideInFromRight {
-  from {
-    opacity: 0;
-    transform: translateX(100%);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
+.painting-modal__overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.painting-modal__content {
+    position: relative;
+    max-width: 90vw;
+    max-height: 90vh;
+}
+
+.painting-modal__image {
+    max-width: 100%;
+    max-height: 90vh;
+    object-fit: contain;
+}
+
+.painting-modal__close {
+    position: absolute;
+    top: -1rem;
+    right: -1rem;
+    background: white;
+    border: none;
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    line-height: 1;
+}
+
+.painting-modal__content {
+    position: relative;
+    max-width: 90vw;
+    max-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.painting-modal__nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    background: rgba(255, 255, 255, 0.85);
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 999px;
+    cursor: pointer;
+    font-size: 1.6rem;
+    line-height: 1;
+    z-index: 2;
+}
+
+.painting-modal__nav--left {
+    left: 1rem;
+}
+
+.painting-modal__nav--right {
+    right: 1rem;
 }

@@ -18,6 +18,8 @@
     },
     "gallery": {
         "title": "Галерея",
+        "showAll": "Показать все",
+        "availableOnly": "Только доступные",
         "sortBy": "Сортировать",
         "sortOptions": {
             "year": "Год",
@@ -30,8 +32,6 @@
         "sold": "Продано",
         "new": "Новое",
         "featured": "Избранное",
-        "available": "Доступно",
-        "unavailable": "Недоступно",
         "title": "Название",
         "description": "Описание",
         "price": "Цена",

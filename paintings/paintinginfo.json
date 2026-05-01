@@ -24,9 +24,9 @@
     },
     {
         "title": {
-            "et": "Meri",
-            "en": "Sea",
-            "ru": "Море"
+            "et": "Suvine meri",
+            "en": "Summer Sea",
+            "ru": "Летнее море"
         },
         "description": {
             "et": "Õli lõuendil.",
@@ -36,7 +36,7 @@
         "year": 2024,
         "price": 1200,
         "size": "50x70 cm",
-        "sold": false,
+        "sold": true,
         "featured": false,
         "image": "/paintings/meri.jpg",
         "category": {
@@ -57,7 +57,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2020,
-        "price": 1300,
+        "price": 1100,
         "size": "50x70 cm",
         "sold": false,
         "featured": false,
@@ -83,8 +83,7 @@
         "price": 1600,
         "size": "60x90 cm",
         "sold": false,
-        "featured": true,
-        "available": true,
+        "featured": false,
         "image": "/paintings/paikeseloojang.jpg",
         "category": {
             "et": ["mets", "päikeseloojang", "loodus"],
@@ -104,7 +103,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1250,
+        "price": 1350,
         "size": "60x80 cm",
         "sold": false,
         "featured": false,
@@ -127,11 +126,10 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1400,
+        "price": 1280,
         "size": "50x70 cm",
         "sold": false,
         "featured": false,
-        "available": true,
         "image": "/paintings/kasesalu.jpg",
         "category": {
             "et": ["mets", "loodus"],
@@ -151,7 +149,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1100,
+        "price": 1650,
         "size": "50x75 cm",
         "sold": false,
         "featured": false,
@@ -174,10 +172,10 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1500,
+        "price": 1350,
         "size": "50x60 cm",
         "sold": false,
-        "featured": true,
+        "featured": false,
         "image": "/paintings/jarve_aares.jpg",
         "category": {
             "et": ["järv", "loodus"],
@@ -197,10 +195,10 @@
             "ru": "Масло на холсте."
         },
         "year": 2024,
-        "price": 1600,
+        "price": 1850,
         "size": "100x70 cm",
         "sold": false,
-        "featured": true,
+        "featured": false,
         "image": "/paintings/aaremaa.jpg",
         "category": {
             "et": ["päikeseloojang", "loodus"],
@@ -220,10 +218,10 @@
             "ru": "Масло на холсте."
         },
         "year": 2024,
-        "price": 1500,
+        "price": 750,
         "size": "42x55 cm",
         "sold": false,
-        "featured": true,
+        "featured": false,
         "image": "/paintings/suveohtu_mere_aares.jpg",
         "category": {
             "et": ["päikeseloojang", "loodus"],
@@ -246,7 +244,7 @@
         "price": 1400,
         "size": "50x60 cm",
         "sold": true,
-        "featured": true,
+        "featured": false,
         "image": "/paintings/laineharjad.jpg",
         "category": {
             "et": ["päikeseloojang", "loodus"],
@@ -266,10 +264,10 @@
             "ru": "Масло на холсте."
         },
         "year": 2023,
-        "price": 1300,
+        "price": 430,
         "size": "42x50 cm",
         "sold": false,
-        "featured": true,
+        "featured": false,
         "image": "/paintings/natuurmort_valge_klaariga.jpg",
         "category": {
             "et": ["natüürmort"],
@@ -335,7 +333,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2023,
-        "price": 1500,
+        "price": 1780,
         "size": "60x80 cm",
         "sold": false,
         "featured": false,
@@ -358,7 +356,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2022,
-        "price": 1500,
+        "price": 1550,
         "size": "50x70 cm",
         "sold": false,
         "featured": false,
@@ -450,7 +448,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2022,
-        "price": 1500,
+        "price": 350,
         "size": "40x55 cm",
         "sold": false,
         "featured": false,
@@ -473,7 +471,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2022,
-        "price": 1500,
+        "price": 430,
         "size": "50x60 cm",
         "sold": false,
         "featured": false,
@@ -496,7 +494,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2022,
-        "price": 1500,
+        "price": 680,
         "size": "50x70 cm",
         "sold": false,
         "featured": false,
@@ -519,7 +517,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2021,
-        "price": 1500,
+        "price": 1950,
         "size": "120x80 cm",
         "sold": false,
         "featured": false,
@@ -565,7 +563,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2019,
-        "price": 1500,
+        "price": 1400,
         "size": "50x60 cm",
         "sold": false,
         "featured": false,
@@ -611,10 +609,10 @@
             "ru": "Масло на холсте."
         },
         "year": 2019,
-        "price": 1500,
+        "price": 1850,
         "size": "60x90 cm",
         "sold": false,
-        "featured": false,
+        "featured": true,
         "image": "/paintings/augusti_hommik.jpg",
         "category": {
             "et": ["loodus"],
@@ -657,7 +655,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2019,
-        "price": 1500,
+        "price": 1300,
         "size": "40x60 cm",
         "sold": false,
         "featured": false,
@@ -703,7 +701,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2019,
-        "price": 1500,
+        "price": 1300,
         "size": "50x70 cm",
         "sold": false,
         "featured": false,
@@ -772,7 +770,7 @@
                 "ru": "Масло на холсте."
             },
             "year": 2025,
-            "price": 1500,
+            "price": 1450,
             "size": "50x70 cm",
             "sold": false,
             "featured": false,

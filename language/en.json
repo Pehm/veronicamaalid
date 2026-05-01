@@ -18,6 +18,8 @@
     },
     "gallery": {
         "title": "Gallery",
+        "showAll": "Show All",
+        "availableOnly": "Available Only",
         "sortBy": "Sort By",
         "sortOptions": {
             "year": "Year",
@@ -30,8 +32,6 @@
         "sold": "Sold",
         "new": "New",
         "featured": "Featured",
-        "available": "Available",
-        "unavailable": "Unavailable",
         "title": "Title",
         "description": "Description",
         "price": "Price",

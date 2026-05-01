@@ -18,6 +18,8 @@
     },
     "gallery": {
         "title": "Galerii",
+        "showAll": "Kõik",
+        "availableOnly": "Ainult saadaval",
         "sortBy": "Sorteeri",
         "sortOptions": {
             "year": "Aasta",
@@ -30,8 +32,6 @@
         "sold": "Müüdud",
         "new": "Uus",
         "featured": "Esile tõstetud",
-        "available": "Saadaval",
-        "unavailable": "Pole saadaval",
         "title": "Pealkiri",
         "description": "Kirjeldus",
         "price": "Hind",
