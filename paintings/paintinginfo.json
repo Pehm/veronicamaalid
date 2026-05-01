@@ -80,7 +80,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1900,
+        "price": 2850,
         "size": "60x90 cm",
         "sold": false,
         "featured": false,
@@ -103,7 +103,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1850,
+        "price": 2400,
         "size": "60x80 cm",
         "sold": false,
         "featured": false,
@@ -126,7 +126,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1280,
+        "price": 1700,
         "size": "50x70 cm",
         "sold": false,
         "featured": false,
@@ -149,7 +149,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1650,
+        "price": 2000,
         "size": "50x75 cm",
         "sold": false,
         "featured": false,
@@ -172,7 +172,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2025,
-        "price": 1350,
+        "price": 1800,
         "size": "50x60 cm",
         "sold": false,
         "featured": false,
@@ -195,7 +195,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2024,
-        "price": 1850,
+        "price": 2800,
         "size": "100x70 cm",
         "sold": false,
         "featured": false,
@@ -356,7 +356,7 @@
             "ru": "Масло на холсте."
         },
         "year": 2022,
-        "price": 1550,
+        "price": 1750,
         "size": "50x70 cm",
         "sold": false,
         "featured": false,
